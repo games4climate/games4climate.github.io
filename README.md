@@ -1,14 +1,14 @@
 ---
 layout: home
-title: Just the Class
+title: CLES 120
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: CLES 120
 ---
 
-# Just the Class
+# CLES 120 - Games for Climate Change Literacy
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
