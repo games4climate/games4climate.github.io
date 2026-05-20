@@ -11,7 +11,16 @@ seo:
 # CLES120 - Climate Games
 ## Welcome to Climate Games
 
-Instructor: [Prof. Lynn Kirabo](https://www.cs.hmc.edu/~kirabo)\
-Department: [Computer Science](https://www.hmc.edu/cs/) & [Hixon Center for Climate and the Environment](https://www.hmc.edu/hixon-center/)
+Instructor: [Prof. Kirabo](https://www.cs.hmc.edu/~kirabo)\
+Department: [Computer Science](https://www.hmc.edu/cs/) & [Hixon Center for Climate and the Environment](https://www.hmc.edu/hixon-center/)\
+Tags: 
+HCI x Climate
+{: .label }
+
+Design Studio
+{: .label }
+
+Prototyping
+{: .label }
 
 Whelp! You're early. This page is still under construction... Nothing to see here.... yet ;)
